@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>news &#8211; Laura Green</title>
+	<atom:link href="http://localhost/lauragreen/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Apr 2020 17:37:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
+	<title>news &#8211; Laura Green</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>First Prize Winner</title>
+		<link>/2020/04/28/first-prize-winner/</link>
+					<comments>/2020/04/28/first-prize-winner/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 17:37:13 +0000</pubDate>
+				<category><![CDATA[news]]></category>
+		<guid isPermaLink="false">/?p=145</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam faucibus purus in massa tempor nec feugiat. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Iaculis eu non diam phasellus vestibulum lorem sed risus. Porta nibh venenatis cras sed felis eget. Porttitor massa [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam faucibus purus in massa tempor nec feugiat. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Iaculis eu non diam phasellus vestibulum lorem sed risus. Porta nibh venenatis cras sed felis eget. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac feugiat sed lectus vestibulum mattis. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Sed vulputate odio ut enim blandit volutpat. In mollis nunc sed id semper risus in hendrerit gravida. Iaculis urna id volutpat lacus laoreet non. Accumsan lacus vel facilisis volutpat est velit egestas dui. Cursus turpis massa tincidunt dui ut ornare lectus. Etiam non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Eu turpis egestas pretium aenean pharetra magna ac. Phasellus faucibus scelerisque eleifend donec pretium vulputate. Ultricies mi eget mauris pharetra et ultrices. Auctor augue mauris augue neque. Semper risus in hendrerit gravida rutrum quisque non. Cras adipiscing enim eu turpis egestas pretium aenean pharetra.</p>
+
+
+
+<p>Enim sit amet venenatis urna. Varius quam quisque id diam vel quam elementum. Non enim praesent elementum facilisis leo vel. Diam maecenas ultricies mi eget. Aliquam eleifend mi in nulla posuere. Odio ut enim blandit volutpat. Potenti nullam ac tortor vitae purus faucibus. Amet dictum sit amet justo. Euismod in pellentesque massa placerat duis ultricies. Velit scelerisque in dictum non consectetur a. Vel facilisis volutpat est velit egestas dui. Vitae congue mauris rhoncus aenean vel elit. Nec sagittis aliquam malesuada bibendum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/28/first-prize-winner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

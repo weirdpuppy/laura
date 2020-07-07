@@ -1,0 +1,319 @@
+/*
+Theme Name: Laura
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme example child theme.
+Author: roxanne
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+@font-face {
+    font-family: 'Bodoni';
+    src: url('/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf'); /* IE9 Compat Modes */
+    src: url('/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf#iefix') format('embedded-opentype'),  IE6-IE8 
+/*         url('/wp-content/themes/laura/fonts/webfont.woff') format('woff'),  Modern Browsers */
+         url('/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf')  format('truetype'), /* Safari, Android, iOS */
+/*         url('/wp-content/themes/laura/fonts/webfont.svg#svgFontName') format('svg');  Legacy iOS */
+}
+
+.top-header-wrap.clr {
+    border-top: 2px solid black;
+}
+
+div#site-navigation-wrap {
+    border-bottom: 1px solid black;
+}
+
+.gallery-item img{
+    max-width: 100%!important;
+    max-height: 100%!important;
+    position: relative;
+    vertical-align: middle;
+    left: 50%;
+    transform: translate(-50%);
+    height: 350px!important;
+    width: 100%!important;
+    object-fit:cover;
+    padding-bottom: 10px;
+  }
+  
+  .gallery-item {
+    width: 33%;
+    height: 350px!important;
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+  }
+
+  .container {
+    width: 1400px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+  max-width: 100%!important;
+}
+
+#about {
+  max-width: 750px;
+  margin: auto;
+}
+
+.img-gallery {
+  width: 100%;
+}
+.img-gallery img {
+  /* min-height: 250px!important; */
+  height: 350px!important;
+  width: 100%;
+  object-fit: cover;
+  padding: 5px;
+}
+
+/*********TABS**********/
+.lg_tabs.elementor-widget-tabs .elementor-tabs-wrapper {
+  width: 80%;
+  margin: auto;
+}
+.lg_tabs .elementor-tab-title {
+  width: 49%;
+  text-align:center;
+}
+.lg_tabs .elementor-tab-title.elementor-active {
+  font-weight: 700!important;
+}
+
+.lg_tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title{
+  display: inline-block!important;
+}
+
+/*********EVENTS**********/
+.eap__event {
+  grid-template-columns: 1fr 3fr;
+}
+.eap__meta {
+  color: #aaa;
+  text-transform:uppercase;
+  font-size: .9em;
+}
+.eap__img img{
+  max-height: 250px;
+  object-fit: cover;
+}
+
+.eap__more {
+  text-align:center;
+}
+
+.eap__more a{
+  border: 2px solid black!important;
+  background: none!important;
+  color: black!important;
+  border-radius: 0!important;
+  width: 150px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 20px;
+  transition: 1s;
+}
+
+.eap__more a:hover {
+  color: #FFFFFF!important;
+  background-color: #000000!important;
+  border-color: #000000!important;
+}
+
+/*********POSTS**********/
+.row {
+  display:flex;
+}
+.col-3 {
+  width: 30%;
+}
+.col-9 {
+  width: 60%;
+}
+
+.post-img img{
+  width: 90%!important;
+  height: fit-content!important;
+  object-fit: cover;
+}
+
+.entry-date {
+  color: #aaa;
+  text-transform:uppercase;
+  font-size: .9em;
+}
+
+/*********POPUP**********/
+.popmake {
+  margin-top: -50px!important;
+}
+
+.pum-container {
+  top: 100px!important;
+}
+
+.popup-img img {
+  height: 70vh!important;
+  width: auto;
+}
+
+.no-padding .elementor-column {
+  padding: 0!important;
+}
+
+.pum-overlay {
+  overflow: hidden!important;
+}
+
+/*********FOOTER**********/
+.elementor-widget-wp-widget-recent-posts h5 {
+  display: none;
+}
+.elementor-widget-wp-widget-recent-posts {
+  margin-top: -20px;
+  text-align: center;
+}
+
+.elementor-widget-wp-widget-recent-posts li {
+  list-style: none;
+  text-transform: uppercase;
+  transition: 1s;
+}
+
+.elementor-widget-wp-widget-recent-posts li:hover {
+ opacity: .3;
+}
+
+.elementor-widget-wp-widget-recent-posts li::before {
+  content: " + ";
+  padding-right: 5px;
+}
+/*********SIDEBAR**********/
+.oceanwp-recent-posts li {
+  display: inline-block!important;
+  width: 100%;
+  text-align: center;
+}
+
+a.recent-posts-thumbnail {
+  width: 100%!important;
+  height: 200px!important;
+  object-fit: cover;
+}
+
+a.recent-posts-thumbnail img {
+  height: 200px!important;
+  object-fit: cover;
+}
+a.recent-posts-title {
+  font-family: Bodini;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  letter-spacing: 0px!important;
+}
+
+#right-sidebar-inner {
+  margin: auto;
+  max-width: 325px;
+  background: #efefef;
+  padding: 50px 30px 30px 30px;
+}
+.owp-social-share {
+  width: fit-content!important;
+  margin: auto!important;
+}
+
+h4.widget-title {
+  border: 0;
+  padding-left: 0;
+  text-align: center;
+}
+
+#main #content-wrap {
+  padding-top: 20px;
+}
+
+#primary {
+  border: none;
+}
+
+h1.page-header-title.clr {
+  display: none;
+}
+
+.full-img {
+  width: 100vw;
+  max-height: 500px;
+  object-fit: cover;
+  object-position: 0 0;
+  margin-bottom: 10px;
+}
+
+.main-btn {
+  border: 2px solid black!important;
+  background: none!important;
+  color: black!important;
+  border-radius: 0!important;
+}
+
+.main-btn:hover {
+  color: #FFFFFF!important;
+  background-color: #000000!important;
+  border-color: #000000!important;
+}
+
+.grid-items img {
+  height: 250px!important;
+  object-fit:cover;
+}
+
+.grid-items .title_link {
+  text-transform: uppercase;
+  text-align:center;
+}
+
+.grid-items .excerpt {
+  text-align: justify;
+}
+
+.grid-items .title_link {
+  text-transform: uppercase;
+  text-align: center!important;
+  font-family: Bodini;
+  font-size: 1.6em!important;
+  padding: 20px 0px 10px 0px!important;
+}
+
+/*********FORMS**********/
+
+.wpforms-confirmation-container-full {
+  background: white;
+  border: black 1px solid;
+}
+.wpforms-form .wpforms-field-row {
+  max-width: 100%!important;
+  width: 100%!important;
+}
+.wpforms-field-medium {
+  max-width: 100%!important;
+}
+.contact .wpforms-submit-container {
+  text-align:center;
+}
+.contact button {
+  width: 150px!important;
+}
+.newsletter button {
+  width: 100%!important;
+}
+.newsletter input {
+  border: 1px solid black!important;
+}
