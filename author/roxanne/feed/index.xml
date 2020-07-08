@@ -10,7 +10,7 @@
 <channel>
 	<title>roxanne &#8211; Laura Green</title>
 	<atom:link href="http://localhost/lauragreen/author/roxanne/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/laura</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 Jun 2020 21:31:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
+	<url>/laura/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
 	<title>roxanne &#8211; Laura Green</title>
-	<link></link>
+	<link>/laura</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>First Prize Winner</title>
-		<link>/2020/04/28/first-prize-winner/</link>
-					<comments>/2020/04/28/first-prize-winner/#respond</comments>
+		<link>/laura/2020/04/28/first-prize-winner/</link>
+					<comments>/laura/2020/04/28/first-prize-winner/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Tue, 28 Apr 2020 17:37:13 +0000</pubDate>
 				<category><![CDATA[news]]></category>
-		<guid isPermaLink="false">/?p=145</guid>
+		<guid isPermaLink="false">/laura/?p=145</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam faucibus purus in massa tempor nec feugiat. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Iaculis eu non diam phasellus vestibulum lorem sed risus. Porta nibh venenatis cras sed felis eget. Porttitor massa [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -46,20 +46,20 @@
 <p>Enim sit amet venenatis urna. Varius quam quisque id diam vel quam elementum. Non enim praesent elementum facilisis leo vel. Diam maecenas ultricies mi eget. Aliquam eleifend mi in nulla posuere. Odio ut enim blandit volutpat. Potenti nullam ac tortor vitae purus faucibus. Amet dictum sit amet justo. Euismod in pellentesque massa placerat duis ultricies. Velit scelerisque in dictum non consectetur a. Vel facilisis volutpat est velit egestas dui. Vitae congue mauris rhoncus aenean vel elit. Nec sagittis aliquam malesuada bibendum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/28/first-prize-winner/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/04/28/first-prize-winner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Creating Art</title>
-		<link>/2020/04/27/creating-art/</link>
-					<comments>/2020/04/27/creating-art/#respond</comments>
+		<link>/laura/2020/04/27/creating-art/</link>
+					<comments>/laura/2020/04/27/creating-art/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2020 21:45:29 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/?p=124</guid>
+		<guid isPermaLink="false">/laura/?p=124</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -82,21 +82,21 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/27/creating-art/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/04/27/creating-art/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Making a Studio a Home</title>
-		<link>/2020/04/27/making-a-studio-a-home/</link>
-					<comments>/2020/04/27/making-a-studio-a-home/#respond</comments>
+		<link>/laura/2020/04/27/making-a-studio-a-home/</link>
+					<comments>/laura/2020/04/27/making-a-studio-a-home/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2020 21:45:07 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[featured]]></category>
-		<guid isPermaLink="false">/?p=117</guid>
+		<guid isPermaLink="false">/laura/?p=117</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -119,20 +119,20 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/27/making-a-studio-a-home/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/04/27/making-a-studio-a-home/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Do it All</title>
-		<link>/2020/02/27/how-to-do-it-all/</link>
-					<comments>/2020/02/27/how-to-do-it-all/#respond</comments>
+		<link>/laura/2020/02/27/how-to-do-it-all/</link>
+					<comments>/laura/2020/02/27/how-to-do-it-all/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Thu, 27 Feb 2020 21:46:49 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/?p=126</guid>
+		<guid isPermaLink="false">/laura/?p=126</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -155,20 +155,20 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/02/27/how-to-do-it-all/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/02/27/how-to-do-it-all/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Music + Art</title>
-		<link>/2020/01/27/music-art/</link>
-					<comments>/2020/01/27/music-art/#respond</comments>
+		<link>/laura/2020/01/27/music-art/</link>
+					<comments>/laura/2020/01/27/music-art/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2020 21:47:00 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/?p=128</guid>
+		<guid isPermaLink="false">/laura/?p=128</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -191,7 +191,7 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/01/27/music-art/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/01/27/music-art/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

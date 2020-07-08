@@ -285,11 +285,11 @@
 }
 
 .post-grid .owl-nav .owl-prev {
-	background:rgb(255, 255, 255) url("/wp-content/plugins/post-grid/assets/frontend/css/images/arrow-prev.png") no-repeat scroll 3px 7px;
+	background:rgb(255, 255, 255) url("/laura/wp-content/plugins/post-grid/assets/frontend/css/images/arrow-prev.png") no-repeat scroll 3px 7px;
 
 }
 .post-grid .owl-nav .owl-next {
-background:rgb(255, 255, 255) url("/wp-content/plugins/post-grid/assets/frontend/css/images/arrow-next.png") no-repeat scroll 3px 7px;
+background:rgb(255, 255, 255) url("/laura/wp-content/plugins/post-grid/assets/frontend/css/images/arrow-next.png") no-repeat scroll 3px 7px;
 }
 
 

@@ -10,7 +10,7 @@
 <channel>
 	<title>news &#8211; Laura Green</title>
 	<atom:link href="http://localhost/lauragreen/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/laura</link>
 	<description></description>
 	<lastBuildDate>Tue, 28 Apr 2020 17:37:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
+	<url>/laura/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
 	<title>news &#8211; Laura Green</title>
-	<link></link>
+	<link>/laura</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>First Prize Winner</title>
-		<link>/2020/04/28/first-prize-winner/</link>
-					<comments>/2020/04/28/first-prize-winner/#respond</comments>
+		<link>/laura/2020/04/28/first-prize-winner/</link>
+					<comments>/laura/2020/04/28/first-prize-winner/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Tue, 28 Apr 2020 17:37:13 +0000</pubDate>
 				<category><![CDATA[news]]></category>
-		<guid isPermaLink="false">/?p=145</guid>
+		<guid isPermaLink="false">/laura/?p=145</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam faucibus purus in massa tempor nec feugiat. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Iaculis eu non diam phasellus vestibulum lorem sed risus. Porta nibh venenatis cras sed felis eget. Porttitor massa [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -46,7 +46,7 @@
 <p>Enim sit amet venenatis urna. Varius quam quisque id diam vel quam elementum. Non enim praesent elementum facilisis leo vel. Diam maecenas ultricies mi eget. Aliquam eleifend mi in nulla posuere. Odio ut enim blandit volutpat. Potenti nullam ac tortor vitae purus faucibus. Amet dictum sit amet justo. Euismod in pellentesque massa placerat duis ultricies. Velit scelerisque in dictum non consectetur a. Vel facilisis volutpat est velit egestas dui. Vitae congue mauris rhoncus aenean vel elit. Nec sagittis aliquam malesuada bibendum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/28/first-prize-winner/feed/</wfw:commentRss>
+					<wfw:commentRss>/laura/2020/04/28/first-prize-winner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
