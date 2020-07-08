@@ -12,11 +12,11 @@ Version: 1.0
 
 @font-face {
     font-family: 'Bodoni';
-    src: url('/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf'); /* IE9 Compat Modes */
-    src: url('/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf#iefix') format('embedded-opentype'),  IE6-IE8 
-/*         url('/laura/wp-content/themes/laura/fonts/webfont.woff') format('woff'),  Modern Browsers */
-         url('/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf')  format('truetype'), /* Safari, Android, iOS */
-/*         url('/laura/wp-content/themes/laura/fonts/webfont.svg#svgFontName') format('svg');  Legacy iOS */
+    src: url('https://weirdpuppy.github.io/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf'); /* IE9 Compat Modes */
+    src: url('https://weirdpuppy.github.io/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf#iefix') format('embedded-opentype'),  IE6-IE8 
+/*         url('https://weirdpuppy.github.io/laura/wp-content/themes/laura/fonts/webfont.woff') format('woff'),  Modern Browsers */
+         url('https://weirdpuppy.github.io/laura/wp-content/themes/laura/fonts/Bodoni 72 Smallcaps Book.ttf')  format('truetype'), /* Safari, Android, iOS */
+/*         url('https://weirdpuppy.github.io/laura/wp-content/themes/laura/fonts/webfont.svg#svgFontName') format('svg');  Legacy iOS */
 }
 
 .top-header-wrap.clr {

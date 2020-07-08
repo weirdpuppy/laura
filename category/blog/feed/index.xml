@@ -10,7 +10,7 @@
 <channel>
 	<title>blog &#8211; Laura Green</title>
 	<atom:link href="http://localhost/lauragreen/category/blog/feed/" rel="self" type="application/rss+xml" />
-	<link>/laura</link>
+	<link>https://weirdpuppy.github.io/laura</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 Jun 2020 21:31:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>/laura/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
+	<url>https://weirdpuppy.github.io/laura/wp-content/uploads/2020/04/laura_tinylogo-150x150.png</url>
 	<title>blog &#8211; Laura Green</title>
-	<link>/laura</link>
+	<link>https://weirdpuppy.github.io/laura</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Creating Art</title>
-		<link>/laura/2020/04/27/creating-art/</link>
-					<comments>/laura/2020/04/27/creating-art/#respond</comments>
+		<link>https://weirdpuppy.github.io/laura/2020/04/27/creating-art/</link>
+					<comments>https://weirdpuppy.github.io/laura/2020/04/27/creating-art/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2020 21:45:29 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/laura/?p=124</guid>
+		<guid isPermaLink="false">https://weirdpuppy.github.io/laura/?p=124</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,21 +58,21 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/laura/2020/04/27/creating-art/feed/</wfw:commentRss>
+					<wfw:commentRss>https://weirdpuppy.github.io/laura/2020/04/27/creating-art/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Making a Studio a Home</title>
-		<link>/laura/2020/04/27/making-a-studio-a-home/</link>
-					<comments>/laura/2020/04/27/making-a-studio-a-home/#respond</comments>
+		<link>https://weirdpuppy.github.io/laura/2020/04/27/making-a-studio-a-home/</link>
+					<comments>https://weirdpuppy.github.io/laura/2020/04/27/making-a-studio-a-home/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2020 21:45:07 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[featured]]></category>
-		<guid isPermaLink="false">/laura/?p=117</guid>
+		<guid isPermaLink="false">https://weirdpuppy.github.io/laura/?p=117</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -95,20 +95,20 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/laura/2020/04/27/making-a-studio-a-home/feed/</wfw:commentRss>
+					<wfw:commentRss>https://weirdpuppy.github.io/laura/2020/04/27/making-a-studio-a-home/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Do it All</title>
-		<link>/laura/2020/02/27/how-to-do-it-all/</link>
-					<comments>/laura/2020/02/27/how-to-do-it-all/#respond</comments>
+		<link>https://weirdpuppy.github.io/laura/2020/02/27/how-to-do-it-all/</link>
+					<comments>https://weirdpuppy.github.io/laura/2020/02/27/how-to-do-it-all/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Thu, 27 Feb 2020 21:46:49 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/laura/?p=126</guid>
+		<guid isPermaLink="false">https://weirdpuppy.github.io/laura/?p=126</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -131,20 +131,20 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/laura/2020/02/27/how-to-do-it-all/feed/</wfw:commentRss>
+					<wfw:commentRss>https://weirdpuppy.github.io/laura/2020/02/27/how-to-do-it-all/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Music + Art</title>
-		<link>/laura/2020/01/27/music-art/</link>
-					<comments>/laura/2020/01/27/music-art/#respond</comments>
+		<link>https://weirdpuppy.github.io/laura/2020/01/27/music-art/</link>
+					<comments>https://weirdpuppy.github.io/laura/2020/01/27/music-art/#respond</comments>
 		
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2020 21:47:00 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/laura/?p=128</guid>
+		<guid isPermaLink="false">https://weirdpuppy.github.io/laura/?p=128</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium quam vulputate dignissim suspendisse in. Mauris commodo quis imperdiet massa tincidunt nunc. Iaculis nunc sed augue lacus viverra vitae congue. Posuere ac ut consequat semper viverra nam libero justo laoreet. Feugiat sed lectus vestibulum mattis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -167,7 +167,7 @@
 <p>Sagittis vitae et leo duis ut diam. Sit amet nisl purus in mollis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet nulla facilisi morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris cursus mattis molestie a. Nibh nisl condimentum id venenatis. Blandit aliquam etiam erat velit scelerisque in. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Eget velit aliquet sagittis id consectetur purus. Lectus quam id leo in vitae turpis massa sed. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Volutpat est velit egestas dui id ornare arcu odio ut. Felis bibendum ut tristique et egestas.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/laura/2020/01/27/music-art/feed/</wfw:commentRss>
+					<wfw:commentRss>https://weirdpuppy.github.io/laura/2020/01/27/music-art/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
